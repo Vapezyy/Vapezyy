@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=Vapezyy" alt="mystreak"/>
 
 <!--
 **Vapezyy/Vapezyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
