@@ -1,7 +1,5 @@
 # Hi there! Im Vapezyy
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vapezyy&theme=tokyonight" alt="mystreak"/>
-
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vapezyy/Vapezyy/output/github-snake-dark.svg" />
